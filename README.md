@@ -373,7 +373,7 @@
     <div class="responsive">
         <div class="gallery">
             <a target="_blank" href="image/Bracelet4.jpg">
-                <img src="image/bracelet4.jpg" alt="Bracelet Diamond">
+                <img src="image/Bracelet4.jpg" alt="Bracelet Diamond">
             </a>
             <div class="desc">Bracelet Diamond</div>
         </div>
