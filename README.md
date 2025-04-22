@@ -431,13 +431,13 @@
 
     
     <div class="contact">
-        <p>Tel: 098522336</p>
-        <p>Telegram: @HEN_MARANIT</p>
+        <p>Tel: 077778647 - 070778647</p>
+        <p>Telegram: @teavchhunnan</p>
         <p>ABA QR</p>
     </div>
 
     <div class="qr-container">
-        <img src="image/ABAQR.jpg" width="300" height="300" alt="ABA QR Code">
+        <img src="image/aba.jpg" width="300" height="300" alt="ABA QR Code">
     </div>
 
 </body>
